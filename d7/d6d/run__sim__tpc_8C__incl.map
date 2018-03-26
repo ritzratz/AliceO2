@@ -1,0 +1,20 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/macro/run_sim_tpc.C" name="/home/travis/build/AliceO2Group/AliceO2/macro/run_sim_tpc.C">
+<area shape="rect" id="node15" href="$db/d4b/MagneticField_8h.html" title="Definition of the MagF class. " alt="" coords="2429,117,2576,144"/>
+<area shape="rect" id="node38" href="$d9/d6d/Cave_8h.html" title="DetectorsPassive/Cave.h" alt="" coords="850,200,1021,227"/>
+<area shape="rect" id="node42" href="$de/daf/GeneratorFromFile_8h.html" title="Generators/GeneratorFrom\lFile.h" alt="" coords="4090,110,4267,151"/>
+<area shape="rect" id="node44" href="$da/d96/TPC_2simulation_2include_2TPCSimulation_2Detector_8h.html" title="TPCSimulation/Detector.h" alt="" coords="1199,117,1373,144"/>
+<area shape="rect" id="node17" href="$d3/d91/MagFieldParam_8h.html" title="Definition of the MagFieldParam: container for ALICE mag. field parameters. " alt="" coords="2853,200,3008,227"/>
+<area shape="rect" id="node19" href="$dd/dfb/MagneticWrapperChebyshev_8h.html" title="Field/MagneticWrapperChebyshev.h" alt="" coords="2386,200,2619,227"/>
+<area shape="rect" id="node25" href="$da/df4/MagFieldFast_8h.html" title="Definition of the fast magnetic field parametrization MagFieldFast. " alt="" coords="2167,200,2311,227"/>
+<area shape="rect" id="node22" href="$d8/d64/Chebyshev3D_8h.html" title="MathUtils/Chebyshev3D.h" alt="" coords="2475,283,2651,309"/>
+<area shape="rect" id="node24" href="$d4/d08/Chebyshev3DCalc_8h.html" title="MathUtils/Chebyshev3DCalc.h" alt="" coords="2508,365,2711,392"/>
+<area shape="rect" id="node27" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="647,365,813,392"/>
+<area shape="rect" id="node34" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="143,448,309,475"/>
+<area shape="rect" id="node45" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="1389,200,1563,227"/>
+<area shape="rect" id="node53" href="$d4/de5/Point_8h.html" title="Class for TPC Point. " alt="" coords="671,200,824,227"/>
+<area shape="rect" id="node55" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="362,200,493,227"/>
+<area shape="rect" id="node48" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="1702,283,1921,309"/>
+<area shape="rect" id="node54" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="552,275,704,317"/>
+<area shape="rect" id="node56" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="328,283,527,309"/>
+<area shape="rect" id="node57" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="136,283,304,309"/>
+</map>

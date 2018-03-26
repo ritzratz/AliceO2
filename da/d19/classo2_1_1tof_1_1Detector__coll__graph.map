@@ -1,0 +1,6 @@
+<map id="o2::tof::Detector" name="o2::tof::Detector">
+<area shape="rect" id="node2" href="$d4/d8a/classo2_1_1Base_1_1DetImpl.html" title="{o2::Base::DetImpl\&lt;\l Detector \&gt;\n||+ updateHitTrackIndices()\l}" alt="" coords="55,742,228,834"/>
+<area shape="rect" id="node3" href="$d7/d02/classo2_1_1Base_1_1Detector.html" title="{o2::Base::Detector\n||+ Detector()\l+ Detector()\l+ ~Detector()\l+ Material()\l+ Mixture()\l+ Medium()\l+ Matrix()\l+ addAlignableVolumes()\l+ defineWrapperVolume()\l+ setNumberOfWrapperVolumes()\l+ defineLayer()\l+ defineLayerTurbo()\l+ getMaterialID()\l+ getMediumID()\l+ getMediumIDMappingAsVector()\l+ addNameTo()\l+ updateHitTrackIndices()\l+ GetCollection()\l+ setDensityFactor()\l+ getDensityFactor()\l+ initFieldTrackingParams()\l# Detector()\l# operator=()\l}" alt="" coords="5,133,227,533"/>
+<area shape="rect" id="node5" href="$d4/d8a/classo2_1_1Base_1_1DetImpl.html" title="{o2::Base::DetImpl\&lt;\l Det \&gt;\n||+ updateHitTrackIndices()\l}" alt="" coords="137,585,311,677"/>
+<area shape="rect" id="node4" href="$d6/d0c/classFairDetector.html" title="{FairDetector\n||}" alt="" coords="69,5,163,83"/>
+</map>

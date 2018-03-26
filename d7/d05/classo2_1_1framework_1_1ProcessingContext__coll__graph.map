@@ -1,0 +1,5 @@
+<map id="o2::framework::ProcessingContext" name="o2::framework::ProcessingContext">
+<area shape="rect" id="node2" href="$df/d82/classo2_1_1framework_1_1DataAllocator.html" title="{o2::framework::DataAllocator\n||+ DataAllocator()\l+ newChunk()\l+ adoptChunk()\l+ make()\l+ make()\l+ make()\l+ make()\l+ make()\l+ make()\l+ adopt()\l+ snapshot()\l+ snapshot()\l+ snapshot()\l+ snapshot()\l+ snapshot()\l+ snapshot()\l+ snapshot()\l+ snapshot()\l}" alt="" coords="5,6,197,333"/>
+<area shape="rect" id="node3" href="$d7/d13/classo2_1_1framework_1_1ServiceRegistry.html" title="{o2::framework::ServiceRegistry\n||+ registerService()\l+ get()\l}" alt="" coords="222,123,428,215"/>
+<area shape="rect" id="node4" href="$df/d24/classo2_1_1framework_1_1InputRecord.html" title="{o2::framework::InputRecord\n||+ InputRecord()\l+ getPos()\l+ getPos()\l+ getByPos()\l+ get()\l+ get()\l+ get()\l+ get()\l+ get()\l+ get()\l+ get()\l+ get()\l+ size()\l+ begin()\l+ end()\l}" alt="" coords="453,28,637,311"/>
+</map>

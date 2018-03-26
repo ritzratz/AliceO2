@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/include/TPCSimulation/SAMPAProcessing.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/include/TPCSimulation/SAMPAProcessing.h">
+<area shape="rect" id="node3" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="493,200,656,227"/>
+<area shape="rect" id="node21" href="$d3/d47/ParameterElectronics_8h.html" title="Definition of the parameter class for the detector electronics. " alt="" coords="348,125,567,152"/>
+<area shape="rect" id="node23" href="$dd/d94/Baseline_8h.html" title="TPCSimulation/Baseline.h" alt="" coords="678,125,852,152"/>
+<area shape="rect" id="node4" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="401,275,532,301"/>
+<area shape="rect" id="node20" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="237,275,376,301"/>
+<area shape="rect" id="node5" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="263,349,461,376"/>
+<area shape="rect" id="node6" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="487,349,655,376"/>
+<area shape="rect" id="node8" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="143,507,309,533"/>
+<area shape="rect" id="node11" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="953,424,1119,451"/>
+<area shape="rect" id="node24" href="$db/dac/RandomRing_8h.html" title="TPCBase/RandomRing.h" alt="" coords="680,200,851,227"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TMessage" name="TMessage">
+<area shape="rect" id="node2" href="$d0/d4b/classo2_1_1framework_1_1FairTMessage.html" title="{o2::framework::FairTMessage\n||+ FairTMessage()\l+ FairTMessage()\l+ FairTMessage()\l+ free()\l}" alt="" coords="5,131,200,253"/>
+<area shape="rect" id="node3" href="$d3/d37/classo2_1_1qc_1_1TMessageWrapper.html" title="{o2::qc::TMessageWrapper\n||+ TMessageWrapper()\l+ ~TMessageWrapper()\l}" alt="" coords="225,146,401,238"/>
+<area shape="rect" id="node4" href="$de/dd8/classWrapTMessage.html" title="{WrapTMessage\n||+ WrapTMessage()\l}" alt="" coords="426,153,560,231"/>
+</map>

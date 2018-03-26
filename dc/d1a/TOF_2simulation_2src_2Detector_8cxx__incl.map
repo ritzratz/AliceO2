@@ -1,0 +1,17 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/simulation/src/Detector.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/simulation/src/Detector.cxx">
+<area shape="rect" id="node8" href="$d5/d3c/TOF_2simulation_2include_2TOFSimulation_2Detector_8h.html" title="TOFSimulation/Detector.h" alt="" coords="1025,133,1199,160"/>
+<area shape="rect" id="node34" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="1615,224,1845,251"/>
+<area shape="rect" id="node47" href="$dc/db6/Stack_8h.html" title="Definition of the Stack class. " alt="" coords="2257,126,2409,167"/>
+<area shape="rect" id="node9" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="575,224,749,251"/>
+<area shape="rect" id="node20" href="$d4/d54/Geo_8h.html" title="TOFBase/Geo.h" alt="" coords="1159,224,1275,251"/>
+<area shape="rect" id="node21" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="975,217,1127,258"/>
+<area shape="rect" id="node14" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="638,315,857,341"/>
+<area shape="rect" id="node22" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="961,315,1127,341"/>
+<area shape="rect" id="node30" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1070,405,1236,432"/>
+<area shape="rect" id="node39" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2605,307,2813,349"/>
+<area shape="rect" id="node44" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="2451,405,2571,432"/>
+<area shape="rect" id="node46" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="2373,496,2611,523"/>
+<area shape="rect" id="node49" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="2932,217,3084,258"/>
+<area shape="rect" id="node56" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="3681,307,3833,349"/>
+<area shape="rect" id="node60" href="$d5/dbe/TrackReference_8h.html" title="SimulationDataFormat\l/TrackReference.h" alt="" coords="2315,217,2467,258"/>
+</map>

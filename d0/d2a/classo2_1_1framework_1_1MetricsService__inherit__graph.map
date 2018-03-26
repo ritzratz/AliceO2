@@ -1,0 +1,5 @@
+<map id="o2::framework::MetricsService" name="o2::framework::MetricsService">
+<area shape="rect" id="node2" href="$dd/d19/classo2_1_1framework_1_1DummyMetricsService.html" title="A dummy service for metrics which does nothing. For tests. " alt="" coords="5,161,208,282"/>
+<area shape="rect" id="node3" href="$df/d7b/classo2_1_1framework_1_1RemoteMetricsService.html" title="{o2::framework::RemoteMetrics\lService\n||+ post()\l+ post()\l+ post()\l}" alt="" coords="232,161,435,282"/>
+<area shape="rect" id="node4" href="$d6/d06/classo2_1_1framework_1_1SimpleMetricsService.html" title="{o2::framework::SimpleMetrics\lService\n||+ post()\l+ post()\l+ post()\l}" alt="" coords="459,161,655,282"/>
+</map>

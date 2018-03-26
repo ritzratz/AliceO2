@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d3/de1/structo2_1_1framework_1_1has__root__dictionary.html" title="o2::framework::has\l_root_dictionary\&lt; T\l::value_type \&gt;" alt="" coords="174,20,309,76"/>
+<area shape="rect" id="node4" href="$d0/deb/structis__defined.html" title="is_defined\&lt; class,\l class, class \&gt;" alt="" coords="177,99,305,141"/>
+<area shape="rect" id="node5" href="$d3/de1/structo2_1_1framework_1_1has__root__dictionary.html" title="o2::framework::has\l_root_dictionary\&lt; T, _ \&gt;" alt="" coords="161,165,322,206"/>
+<area shape="rect" id="node6" href="$dc/d9b/structo2_1_1framework_1_1is__container.html" title="o2::framework::is_container\l\&lt; T, _ \&gt;" alt="" coords="150,230,333,271"/>
+<area shape="rect" id="node7" href="$da/dee/structo2_1_1framework_1_1is__forced__non__messageable.html" title="o2::framework::is_forced\l_non_messageable\&lt; T, _ \&gt;" alt="" coords="151,295,332,337"/>
+<area shape="rect" id="node8" href="$d8/d85/structo2_1_1framework_1_1is__specialization.html" title="o2::framework::is_specialization\l\&lt; T, Ref \&gt;" alt="" coords="137,361,346,402"/>
+<area shape="rect" id="node3" href="$d5/d6d/classo2_1_1framework_1_1has__root__dictionary_3_01T_00_01typename_01std_1_1enable__if_3_01is__co3a14f09bcf42c805e484bfdd1c1dadfb.html" title="o2::framework::has\l_root_dictionary\&lt; T,\l typename std::enable\l_if\&lt; is_container\&lt; T \&gt;\l::value \&gt;::type \&gt;" alt="" coords="395,5,546,91"/>
+</map>

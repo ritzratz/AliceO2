@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/src/Geometry.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/src/Geometry.cxx">
+<area shape="rect" id="node4" href="$dc/de5/Detectors_2ITSMFT_2MFT_2base_2include_2MFTBase_2Constants_8h.html" title="MFTBase/Constants.h" alt="" coords="235,125,388,152"/>
+<area shape="rect" id="node6" href="$d6/d2e/ITSMFT_2MFT_2base_2include_2MFTBase_2Geometry_8h.html" title="MFTBase/Geometry.h" alt="" coords="358,349,508,376"/>
+<area shape="rect" id="node8" href="$d1/d81/GeometryBuilder_8h.html" title="Class describing MFT Geometry Builder. " alt="" coords="233,275,423,301"/>
+<area shape="rect" id="node9" href="$dd/d83/ITSMFT_2MFT_2base_2include_2MFTBase_2Segmentation_8h.html" title="MFTBase/Segmentation.h" alt="" coords="515,200,689,227"/>
+<area shape="rect" id="node11" href="$d2/d77/HalfSegmentation_8h.html" title="Segmentation class for each half of the ALICE Muon Forward Tracker. " alt="" coords="622,125,820,152"/>
+<area shape="rect" id="node15" href="$dc/d53/HalfDiskSegmentation_8h.html" title="Class for the description of the structure of a half&#45;disk. " alt="" coords="845,125,1069,152"/>
+<area shape="rect" id="node16" href="$d9/de7/LadderSegmentation_8h.html" title="Description of the virtual segmentation of a ladder. " alt="" coords="1000,200,1213,227"/>
+<area shape="rect" id="node17" href="$d3/dbd/ChipSegmentation_8h.html" title="Chip (sensor) segmentation description. " alt="" coords="1051,275,1252,301"/>
+<area shape="rect" id="node13" href="$d3/de7/VSegmentation_8h.html" title="Abstract base class for MFT Segmentation description. " alt="" coords="871,349,1053,376"/>
+</map>

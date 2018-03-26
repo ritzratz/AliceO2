@@ -1,0 +1,6 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/ParameterGEM.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/ParameterGEM.h">
+<area shape="rect" id="node2" href="$de/d9b/ParameterGEM_8cxx.html" title="Implementation of the parameter class for the GEM stack. " alt="" coords="5,126,173,197"/>
+<area shape="rect" id="node3" href="$da/d69/testTPCParameters_8cxx.html" title="This task tests the Parameter handling. " alt="" coords="198,126,369,197"/>
+<area shape="rect" id="node4" href="$db/d6c/GEMAmplification_8cxx.html" title="Implementation of the GEM amplification. " alt="" coords="395,126,573,197"/>
+<area shape="rect" id="node5" href="$d5/d97/testTPCGEMAmplification_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/test/testTPCGEMAmplification.cxx" alt="" coords="598,126,828,197"/>
+</map>

@@ -1,0 +1,56 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/Base/include/DetectorsBase/MaterialManager.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/Base/include/DetectorsBase/MaterialManager.h">
+<area shape="rect" id="node2" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Base/include\l/DetectorsBase/Detector.h" alt="" coords="3316,126,3495,197"/>
+<area shape="rect" id="node4" href="$d3/dee/Base_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Base/src/Detector.cxx" alt="" coords="748,260,967,316"/>
+<area shape="rect" id="node12" href="$d5/d6b/AlpideChip_8cxx.html" title="Creates an ALPIDE chip in simulation. " alt="" coords="991,253,1189,323"/>
+<area shape="rect" id="node26" href="$d5/df3/Absorber_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Passive/src\l/Absorber.cxx" alt="" coords="1215,253,1372,323"/>
+<area shape="rect" id="node27" href="$da/da3/Cave_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Passive/src\l/Cave.cxx" alt="" coords="1396,253,1553,323"/>
+<area shape="rect" id="node28" href="$d7/d64/Dipole_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Passive/src\l/Dipole.cxx" alt="" coords="4131,253,4288,323"/>
+<area shape="rect" id="node29" href="$de/da5/FrameStructure_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Passive/src\l/FrameStructure.cxx" alt="" coords="4312,253,4469,323"/>
+<area shape="rect" id="node30" href="$da/d60/Hall_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Passive/src\l/Hall.cxx" alt="" coords="4493,253,4651,323"/>
+<area shape="rect" id="node31" href="$d9/d06/Magnet_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Passive/src\l/Magnet.cxx" alt="" coords="4675,253,4832,323"/>
+<area shape="rect" id="node32" href="$d3/d29/Pipe_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Passive/src\l/Pipe.cxx" alt="" coords="4856,253,5013,323"/>
+<area shape="rect" id="node33" href="$d5/dcd/Shil_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/Passive/src\l/Shil.cxx" alt="" coords="5037,253,5195,323"/>
+<area shape="rect" id="node55" href="$dd/da9/MaterialManager_8cxx.html" title="Implementation of the MaterialManager class. " alt="" coords="4500,126,4689,197"/>
+<area shape="rect" id="node3" href="$dd/d20/Stack_8cxx.html" title="Implementation of the Stack class. " alt="" coords="3432,253,3596,323"/>
+<area shape="rect" id="node5" href="$d8/d3d/EMCAL_2simulation_2include_2EMCALSimulation_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/EMCAL/simulation\l/include/EMCALSimulation/Detector.h" alt="" coords="3621,253,3864,323"/>
+<area shape="rect" id="node10" href="$de/d6b/FIT_2simulation_2include_2FITSimulation_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/simulation\l/include/FITSimulation/Detector.h" alt="" coords="3889,253,4105,323"/>
+<area shape="rect" id="node13" href="$d6/d8d/ITSMFT_2ITS_2simulation_2include_2ITSSimulation_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/simulation/include/ITSSimulation\l/Detector.h" alt="" coords="1577,245,1793,331"/>
+<area shape="rect" id="node22" href="$d5/d9e/ITSMFT_2MFT_2simulation_2include_2MFTSimulation_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/simulation/include/MFTSimulation\l/Detector.h" alt="" coords="1818,245,2040,331"/>
+<area shape="rect" id="node34" href="$d4/dd8/PHOS_2simulation_2include_2PHOSSimulation_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/PHOS/simulation\l/include/PHOSSimulation/Detector.h" alt="" coords="2064,253,2297,323"/>
+<area shape="rect" id="node37" href="$d5/d3c/TOF_2simulation_2include_2TOFSimulation_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Detector.h" alt="" coords="2690,253,2912,323"/>
+<area shape="rect" id="node46" href="$da/d96/TPC_2simulation_2include_2TPCSimulation_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/include/TPCSimulation/Detector.h" alt="" coords="2936,253,3159,323"/>
+<area shape="rect" id="node53" href="$df/df0/TRD_2simulation_2include_2TRDSimulation_2Detector_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/simulation\l/include/TRDSimulation/Detector.h" alt="" coords="3183,253,3408,323"/>
+<area shape="rect" id="node6" href="$da/d98/EMCAL_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/EMCAL/simulation\l/src/Detector.cxx" alt="" coords="4833,386,5028,457"/>
+<area shape="rect" id="node7" href="$d3/ddc/drawEMCALgeometry_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/EMCAL/testsimulation\l/drawEMCALgeometry.C" alt="" coords="5053,386,5272,457"/>
+<area shape="rect" id="node8" href="$d5/dce/PutEmcalInTop_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/EMCAL/testsimulation\l/PutEmcalInTop.C" alt="" coords="4397,386,4616,457"/>
+<area shape="rect" id="node9" href="$db/df3/macro_2run__sim__emcal_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_emcal.C" alt="" coords="4640,393,4808,449"/>
+<area shape="rect" id="node11" href="$d3/d5e/FIT_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/FIT/simulation\l/src/Detector.cxx" alt="" coords="5296,386,5467,457"/>
+<area shape="rect" id="node14" href="$d0/d25/V1Layer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/simulation/include/ITSSimulation\l/V1Layer.h" alt="" coords="815,379,1031,464"/>
+<area shape="rect" id="node15" href="$d5/dda/V1Layer_8cxx.html" title="Implementation of the V1Layer class. " alt="" coords="821,519,1005,590"/>
+<area shape="rect" id="node16" href="$db/d28/V3Layer_8h.html" title="Definition of the V3Layer class. " alt="" coords="473,379,689,464"/>
+<area shape="rect" id="node17" href="$d9/d0d/ITSMFT_2ITS_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/simulation/src/Detector.cxx" alt="" coords="351,519,537,590"/>
+<area shape="rect" id="node18" href="$d9/d7c/V3Layer_8cxx.html" title="Implementation of the V3Layer class. " alt="" coords="579,519,763,590"/>
+<area shape="rect" id="node19" href="$dd/d2b/o2__sim__its__ALP3_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/o2_sim_its_ALP3.cxx" alt="" coords="5,386,187,457"/>
+<area shape="rect" id="node20" href="$d9/d71/run__sim_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim.C" alt="" coords="1639,393,1796,449"/>
+<area shape="rect" id="node21" href="$d5/dd2/run__sim__its__ALP3_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_its_ALP3.C" alt="" coords="212,393,399,449"/>
+<area shape="rect" id="node23" href="$dd/d56/run__simu_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/macros/run_simu.C" alt="" coords="1266,386,1432,457"/>
+<area shape="rect" id="node24" href="$d0/d6b/ITSMFT_2MFT_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/simulation/src/Detector.cxx" alt="" coords="1055,386,1241,457"/>
+<area shape="rect" id="node25" href="$d4/d5f/run__sim__mft_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_mft.C" alt="" coords="1457,393,1615,449"/>
+<area shape="rect" id="node35" href="$df/d4d/PHOS_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/PHOS/simulation\l/src/Detector.cxx" alt="" coords="2055,386,2243,457"/>
+<area shape="rect" id="node36" href="$d0/d2a/drawPHOSgeometry_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/PHOS/testsimulation\l/drawPHOSgeometry.C" alt="" coords="1820,386,2029,457"/>
+<area shape="rect" id="node38" href="$de/d69/drawTOFgeometry_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/prototyping\l/drawTOFgeometry.C" alt="" coords="2713,386,2895,457"/>
+<area shape="rect" id="node39" href="$d0/d85/TOF_2simulation_2include_2TOFSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Digitizer.h" alt="" coords="2268,386,2489,457"/>
+<area shape="rect" id="node40" href="$d8/dc6/TOF_2simulation_2include_2TOFSimulation_2DigitizerTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Digitizer\lTask.h" alt="" coords="2659,512,2868,597"/>
+<area shape="rect" id="node44" href="$d4/d59/TOF_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/Detector.cxx" alt="" coords="2513,386,2689,457"/>
+<area shape="rect" id="node45" href="$dc/d6a/run__sim__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_tof.C" alt="" coords="2969,393,3127,449"/>
+<area shape="rect" id="node43" href="$d4/df3/TOF_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/Digitizer.cxx" alt="" coords="2291,519,2467,590"/>
+<area shape="rect" id="node41" href="$dd/df3/TOF_2simulation_2src_2DigitizerTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/DigitizerTask.cxx" alt="" coords="2580,646,2756,717"/>
+<area shape="rect" id="node42" href="$db/d79/run__digi__tof_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_digi_tof.C" alt="" coords="2780,653,2937,709"/>
+<area shape="rect" id="node47" href="$d3/d85/Detectors_2EMCAL_2testsimulation_2run__sim__emcal_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/EMCAL/testsimulation\l/run_sim_emcal.C" alt="" coords="3749,386,3968,457"/>
+<area shape="rect" id="node48" href="$d2/d2c/TPC_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/Detector.cxx" alt="" coords="3993,386,4169,457"/>
+<area shape="rect" id="node49" href="$d7/d11/o2__sim__tpc_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/o2_sim_tpc.cxx" alt="" coords="3151,386,3333,457"/>
+<area shape="rect" id="node50" href="$d3/dcc/run__sim__pythia8hi_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_pythia8hi.C" alt="" coords="3358,393,3543,449"/>
+<area shape="rect" id="node51" href="$d7/d08/run__sim__tpc_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_sim_tpc.C" alt="" coords="3568,393,3725,449"/>
+<area shape="rect" id="node52" href="$d3/d56/runTPC_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/runTPC.cxx" alt="" coords="3568,527,3725,583"/>
+<area shape="rect" id="node54" href="$da/d16/TRD_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/simulation\l/src/Detector.cxx" alt="" coords="4195,386,4373,457"/>
+</map>

@@ -1,0 +1,10 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/ITS/reconstruction/include/ITSReconstruction/CA/vertexer" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_c7a92f3e18e0ff6ceaaae36b970770e6 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="CA" fontname="Helvetica", fontsize="10", URL="dir_c7a92f3e18e0ff6ceaaae36b970770e6.html"]
+  dir_9827ebd90aed3dffb93eb8674aed36e6 [shape=box, label="vertexer", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_9827ebd90aed3dffb93eb8674aed36e6.html"];
+  }
+}

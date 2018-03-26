@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/dfe/classo2_1_1BaseHit.html" title="o2::BaseHit" alt="" coords="5,176,96,203"/>
+<area shape="rect" id="node2" href="$de/d90/classo2_1_1BasicXYZEHit.html" title="o2::BasicXYZEHit\&lt; float \&gt;" alt="" coords="144,67,323,93"/>
+<area shape="rect" id="node6" href="$de/d90/classo2_1_1BasicXYZEHit.html" title="o2::BasicXYZEHit\&lt; Float\l_t, Float_t \&gt;" alt="" coords="148,139,319,181"/>
+<area shape="rect" id="node8" href="$de/d90/classo2_1_1BasicXYZEHit.html" title="o2::BasicXYZEHit\&lt; T, E \&gt;" alt="" coords="144,205,323,232"/>
+<area shape="rect" id="node9" href="$d6/dec/classo2_1_1TPC_1_1HitGroup.html" title="o2::TPC::HitGroup" alt="" coords="168,256,299,283"/>
+<area shape="rect" id="node3" href="$da/d56/classo2_1_1EMCAL_1_1Hit.html" title="EMCAL simulation hit information. " alt="" coords="372,5,487,32"/>
+<area shape="rect" id="node4" href="$d0/d6a/classo2_1_1phos_1_1Hit.html" title="PHOS simulation hit information. " alt="" coords="381,56,478,83"/>
+<area shape="rect" id="node5" href="$d1/dbc/classo2_1_1TPC_1_1Point.html" title="o2::TPC::Point" alt="" coords="375,107,484,133"/>
+<area shape="rect" id="node7" href="$dd/d52/classo2_1_1ITSMFT_1_1Hit.html" title="o2::ITSMFT::Hit" alt="" coords="371,157,488,184"/>
+</map>

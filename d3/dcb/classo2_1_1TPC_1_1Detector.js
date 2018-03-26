@@ -1,0 +1,26 @@
+var classo2_1_1TPC_1_1Detector =
+[
+    [ "Detector", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a44448614ca05ef5f07b94a3cc1a8de1d", null ],
+    [ "Detector", "d3/dcb/classo2_1_1TPC_1_1Detector.html#aa43b3d7bbd4b225855b4bcc93f70b225", null ],
+    [ "~Detector", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a2405fdd7fef79a727a5f48982ffb146b", null ],
+    [ "addHit", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a1438affe888447fa189b89c43a2e0a8d", null ],
+    [ "BeginEvent", "d3/dcb/classo2_1_1TPC_1_1Detector.html#ad8f7bfabfd957f74c567025874569dc7", null ],
+    [ "BeginPrimary", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a19256ed9e18e7c676c2b1e53b6e57325", null ],
+    [ "BetheBlochAleph", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a1c0373509edca25eb4cba5b752f5c909", null ],
+    [ "CloneModule", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a27619eaa38ea7bf5dbb17a4e7a557dab", null ],
+    [ "ConstructGeometry", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a929268618a46c57137741a179fc3113d", null ],
+    [ "EndOfEvent", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a5c5e68924b39b77a349bf01a746c52ff", null ],
+    [ "FinishPrimary", "d3/dcb/classo2_1_1TPC_1_1Detector.html#ad7154b694a80ff391a279f191730aa58", null ],
+    [ "FinishRun", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a97a16504d7640ec4da4c075db97cc00c", null ],
+    [ "Gamma", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a142e7784842acf4c208eb9431f43ebbd", null ],
+    [ "GetGeoFileName", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a136892d0c5ec29071ff6351fc4e5aaa4", null ],
+    [ "getHits", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a1fa5d2132e1edf29c88d849082487b48", null ],
+    [ "Initialize", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a98596916f64a18f96d249e13f8bfc375", null ],
+    [ "PostTrack", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a12418be5114ea0ddef239c4709611919", null ],
+    [ "PreTrack", "d3/dcb/classo2_1_1TPC_1_1Detector.html#aa6074d54f7ff2e924b99b4a027190b10", null ],
+    [ "ProcessHits", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a87e740262465bb22ef2ab7d35fc949b3", null ],
+    [ "Register", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a7a20c3effc84d8ab7b9018168690348c", null ],
+    [ "Reset", "d3/dcb/classo2_1_1TPC_1_1Detector.html#ae86027d7c12ea8c14358604708bd2a1e", null ],
+    [ "SetGeoFileName", "d3/dcb/classo2_1_1TPC_1_1Detector.html#a7ed341deea6a450a9fce1ae1da0c919c", null ],
+    [ "SetSpecialPhysicsCuts", "d3/dcb/classo2_1_1TPC_1_1Detector.html#ad3f9f0c64d1e0638bdd395c5db11479c", null ]
+];

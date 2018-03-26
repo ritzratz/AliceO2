@@ -1,0 +1,7 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/src/LadderSegmentation.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/src/LadderSegmentation.cxx">
+<area shape="rect" id="node3" href="$dc/de5/Detectors_2ITSMFT_2MFT_2base_2include_2MFTBase_2Constants_8h.html" title="MFTBase/Constants.h" alt="" coords="124,125,277,152"/>
+<area shape="rect" id="node5" href="$d9/de7/LadderSegmentation_8h.html" title="Description of the virtual segmentation of a ladder. " alt="" coords="303,125,516,152"/>
+<area shape="rect" id="node10" href="$d3/dbd/ChipSegmentation_8h.html" title="Chip (sensor) segmentation description. " alt="" coords="447,200,648,227"/>
+<area shape="rect" id="node11" href="$d6/d2e/ITSMFT_2MFT_2base_2include_2MFTBase_2Geometry_8h.html" title="MFTBase/Geometry.h" alt="" coords="611,275,761,301"/>
+<area shape="rect" id="node7" href="$d3/de7/VSegmentation_8h.html" title="Abstract base class for MFT Segmentation description. " alt="" coords="405,275,587,301"/>
+</map>

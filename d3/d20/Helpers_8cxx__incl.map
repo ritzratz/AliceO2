@@ -1,0 +1,8 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/TPC/src/Helpers.cxx" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/TPC/src/Helpers.cxx">
+<area shape="rect" id="node2" href="$db/df1/Helpers_8h.html" title="Helper class for memory management of TPC Data Formats, external from the actual data type classes to..." alt="" coords="253,133,437,160"/>
+<area shape="rect" id="node8" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="520,291,719,317"/>
+<area shape="rect" id="node9" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="657,126,809,167"/>
+<area shape="rect" id="node11" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="845,126,997,167"/>
+<area shape="rect" id="node4" href="$d3/dc4/ClusterHardware_8h.html" title="Class of a TPC cluster as produced by the hardware cluster finder (needs a postprocessing step to con..." alt="" coords="99,216,337,243"/>
+<area shape="rect" id="node6" href="$de/dcd/ClusterNative_8h.html" title="Class of a TPC cluster in TPC&#45;native coordinates (row, time) " alt="" coords="362,216,581,243"/>
+</map>

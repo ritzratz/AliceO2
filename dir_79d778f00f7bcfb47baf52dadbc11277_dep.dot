@@ -1,0 +1,12 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/reconstruction/include/MFTReconstruction" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a5377c1b7cc3cb8f35997e73e566fda2 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="include" fontname="Helvetica", fontsize="10", URL="dir_a5377c1b7cc3cb8f35997e73e566fda2.html"]
+  dir_79d778f00f7bcfb47baf52dadbc11277 [shape=box, label="MFTReconstruction", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_79d778f00f7bcfb47baf52dadbc11277.html"];
+  }
+  dir_85bf31a2e8d306e7598ffcb73f8df6bf [shape=box label="common" color="red" URL="dir_85bf31a2e8d306e7598ffcb73f8df6bf.html"];
+  dir_79d778f00f7bcfb47baf52dadbc11277->dir_85bf31a2e8d306e7598ffcb73f8df6bf [headlabel="2", labeldistance=1.5 headhref="dir_000115_000180.html"];
+}

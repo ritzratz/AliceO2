@@ -1,0 +1,11 @@
+<map id="o2::dataformats::TimeStamp&lt; T &gt;" name="o2::dataformats::TimeStamp&lt; T &gt;">
+<area shape="rect" id="node2" href="$d3/dbf/classo2_1_1dataformats_1_1TimeStampWithError.html" title="{o2::dataformats::TimeStamp\lWithError\&lt; T \&gt;\n||+ TimeStampWithError()\l+ TimeStampWithError()\l+ getTimeStampError()\l+ setTimeStampError()\l}" alt="" coords="5,257,192,393"/>
+<area shape="rect" id="node5" href="$dd/def/classo2_1_1TPC_1_1Digit.html" title="{o2::TPC::Digit\&lt; int \&gt;\n|# mCharge\l# mCRU\l# mRow\l# mPad\l|+ Digit()\l+ Digit()\l+ ~Digit()\l+ getCharge()\l+ getChargeFloat()\l+ getCRU()\l+ getRow()\l+ getPad()\l# ClassDefNV()\l}" alt="" coords="429,206,573,445"/>
+<area shape="rect" id="node6" href="$d0/d94/classo2_1_1dataformats_1_1TimeStamp.html" title="{o2::dataformats::TimeStamp\l\&lt; double \&gt;\n||+ TimeStamp()\l+ TimeStamp()\l+ getTimeStamp()\l+ setTimeStamp()\l+ operator==()\l}" alt="" coords="598,250,785,401"/>
+<area shape="rect" id="node10" href="$d0/d94/classo2_1_1dataformats_1_1TimeStamp.html" title="{o2::dataformats::TimeStamp\l\&lt; float \&gt;\n||+ TimeStamp()\l+ TimeStamp()\l+ getTimeStamp()\l+ setTimeStamp()\l+ operator==()\l}" alt="" coords="217,250,404,401"/>
+<area shape="rect" id="node3" href="$de/dd5/classo2_1_1TPC_1_1Cluster.html" title="Cluster class for the TPC. " alt="" coords="17,576,180,859"/>
+<area shape="rect" id="node4" href="$d3/dbf/classo2_1_1dataformats_1_1TimeStampWithError.html" title="{o2::dataformats::TimeStamp\lWithError\&lt; float, float \&gt;\n||+ TimeStampWithError()\l+ TimeStampWithError()\l+ getTimeStampError()\l+ setTimeStampError()\l}" alt="" coords="209,649,396,785"/>
+<area shape="rect" id="node7" href="$d5/d5a/classo2_1_1EMCAL_1_1Digit.html" title="EMCAL digit implementation. " alt="" coords="459,598,584,837"/>
+<area shape="rect" id="node8" href="$d0/dd8/classo2_1_1ITSMFT_1_1Digit.html" title="Digit class for the ITS. " alt="" coords="609,510,775,925"/>
+<area shape="rect" id="node9" href="$d8/db4/classo2_1_1tof_1_1Digit.html" title="TOF digit implementation. " alt="" coords="800,598,909,837"/>
+</map>

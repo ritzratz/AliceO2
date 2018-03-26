@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/DataAllocator.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/DataAllocator.cxx">
+<area shape="rect" id="node2" href="$d1/d28/DataAllocator_8h.html" title="Framework/DataAllocator.h" alt="" coords="1339,109,1520,136"/>
+<area shape="rect" id="node15" href="$dc/dc4/MessageContext_8h.html" title="Framework/MessageContext.h" alt="" coords="2306,184,2507,211"/>
+<area shape="rect" id="node18" href="$d2/d80/RootObjectContext_8h.html" title="Framework/RootObjectContext.h" alt="" coords="452,184,666,211"/>
+<area shape="rect" id="node35" href="$d6/d68/DataSpecUtils_8h.html" title="Framework/DataSpecUtils.h" alt="" coords="23,109,210,136"/>
+<area shape="rect" id="node37" href="$d6/dc9/DataProcessingHeader_8h.html" title="Framework/DataProcessing\lHeader.h" alt="" coords="284,259,468,301"/>
+<area shape="rect" id="node4" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="49,349,204,376"/>
+<area shape="rect" id="node10" href="$d6/df4/OutputRoute_8h.html" title="Framework/OutputRoute.h" alt="" coords="923,184,1099,211"/>
+<area shape="rect" id="node14" href="$d7/d31/DataChunk_8h.html" title="Framework/DataChunk.h" alt="" coords="1815,184,1983,211"/>
+<area shape="rect" id="node21" href="$d8/d3c/TMessageSerializer_8h.html" title="Framework/TMessageSerializer.h" alt="" coords="1174,184,1391,211"/>
+<area shape="rect" id="node29" href="$d0/d95/TypeTraits_8h.html" title="Framework/TypeTraits.h" alt="" coords="1912,267,2075,293"/>
+<area shape="rect" id="node31" href="$d1/d53/SerializationMethods_8h.html" title="Type wrappers for enfording a specific serialization method. " alt="" coords="1568,184,1790,211"/>
+<area shape="rect" id="node11" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="39,267,210,293"/>
+<area shape="rect" id="node36" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="101,184,262,211"/>
+</map>

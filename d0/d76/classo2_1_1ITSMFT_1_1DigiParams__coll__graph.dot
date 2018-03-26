@@ -1,0 +1,8 @@
+digraph "o2::ITSMFT::DigiParams"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::ITSMFT::DigiParams\n||+ DigiParams()\l+ ~DigiParams()\l+ setNoisePerPixel()\l+ getNoisePerPixel()\l+ setContinuous()\l+ isContinuous()\l+ setROFrameLenght()\l+ setROFrameDeadTime()\l+ getROFrameLenght()\l+ getROFrameDeadTime()\l+ setTimeOffset()\l+ getTimeOffset()\l+ setACSFromBGPar0()\l+ setACSFromBGPar1()\l+ setACSFromBGPar2()\l+ setChargeThreshold()\l+ setNSimSteps()\l+ setEnergyToNElectrons()\l+ getACSFromBGPar0()\l+ getACSFromBGPar1()\l+ getACSFromBGPar2()\l+ getChargeThreshold()\l+ getNSimSteps()\l+ getEnergyToNElectrons()\l+ isTimeOffsetSet()\l+ getHit2DigitsMethod()\l+ setHitDigitsMethod()\l+ getAlpSimResponse()\l+ setAlpSimResponse()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+}

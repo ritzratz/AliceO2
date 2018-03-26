@@ -1,0 +1,18 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/PHOS/simulation/src/Detector.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/PHOS/simulation/src/Detector.cxx">
+<area shape="rect" id="node11" href="$d7/d7f/PHOS_2base_2include_2PHOSBase_2Geometry_8h.html" title="PHOSBase/Geometry.h" alt="" coords="2267,224,2429,251"/>
+<area shape="rect" id="node15" href="$d1/def/PHOS_2base_2include_2PHOSBase_2Hit_8h.html" title="PHOSBase/Hit.h" alt="" coords="700,224,823,251"/>
+<area shape="rect" id="node29" href="$d4/dd8/PHOS_2simulation_2include_2PHOSSimulation_2Detector_8h.html" title="PHOSSimulation/Detector.h" alt="" coords="1220,133,1407,160"/>
+<area shape="rect" id="node38" href="$d7/dbc/GeometryParams_8h.html" title="PHOSSimulation/GeometryParams.h" alt="" coords="2003,224,2241,251"/>
+<area shape="rect" id="node40" href="$dc/db6/Stack_8h.html" title="Definition of the Stack class. " alt="" coords="2668,217,2820,258"/>
+<area shape="rect" id="node16" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="671,307,823,349"/>
+<area shape="rect" id="node17" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="706,405,872,432"/>
+<area shape="rect" id="node26" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="161,496,327,523"/>
+<area shape="rect" id="node30" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="1390,224,1564,251"/>
+<area shape="rect" id="node34" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="1449,315,1668,341"/>
+<area shape="rect" id="node41" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="3011,398,3219,439"/>
+<area shape="rect" id="node50" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="3181,307,3333,349"/>
+<area shape="rect" id="node57" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2459,307,2611,349"/>
+<area shape="rect" id="node60" href="$d5/dbe/TrackReference_8h.html" title="SimulationDataFormat\l/TrackReference.h" alt="" coords="2763,307,2915,349"/>
+<area shape="rect" id="node46" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="3103,496,3223,523"/>
+<area shape="rect" id="node48" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="3079,587,3317,613"/>
+</map>

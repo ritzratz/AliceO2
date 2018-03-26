@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/PreClustering/src/PreClusterFinderDevice.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/PreClustering/src/PreClusterFinderDevice.cxx">
+<area shape="rect" id="node2" href="$dd/db2/PreClusterFinderDevice_8h.html" title="PreClusterFinderDevice.h" alt="" coords="747,125,919,152"/>
+<area shape="rect" id="node5" href="$db/da1/PreClusterBlock_8h.html" title="MCHBase/PreClusterBlock.h" alt="" coords="1363,200,1556,227"/>
+<area shape="rect" id="node8" href="$db/df0/DigitBlock_8h.html" title="DigitBlock.h" alt="" coords="1363,275,1456,301"/>
+<area shape="rect" id="node9" href="$db/dad/PreClusterFinder_8h.html" title="PreClusterFinder.h" alt="" coords="995,200,1124,227"/>
+<area shape="rect" id="node15" href="$d6/d34/AliHLTDataTypes_8h.html" title="Data type declaration for the HLT module. " alt="" coords="5,350,197,391"/>
+<area shape="rect" id="node16" href="$d2/dda/MessageFormat_8h.html" title="aliceHLTwrapper/MessageFormat.h" alt="" coords="357,200,587,227"/>
+<area shape="rect" id="node12" href="$d9/d9d/MCH_2Base_2include_2MCHBase_2Mapping_8h.html" title="MCHBase/Mapping.h" alt="" coords="1141,275,1288,301"/>
+<area shape="rect" id="node17" href="$d2/de6/HOMERFactory_8h.html" title="HOMERFactory.h" alt="" coords="38,275,164,301"/>
+<area shape="rect" id="node19" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="398,357,553,384"/>
+<area shape="rect" id="node22" href="$d2/d09/HeartbeatFrame_8h.html" title="Headers/HeartbeatFrame.h" alt="" coords="497,275,676,301"/>
+</map>

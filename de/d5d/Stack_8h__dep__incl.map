@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/simulation/include/SimulationDataFormat/Stack.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/simulation/include/SimulationDataFormat/Stack.h">
+<area shape="rect" id="node2" href="$dd/d20/Stack_8cxx.html" title="Implementation of the Stack class. " alt="" coords="5,139,169,210"/>
+<area shape="rect" id="node3" href="$d3/df5/checkStack_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/DataFormats/simulation\l/test/checkStack.C" alt="" coords="195,139,359,210"/>
+<area shape="rect" id="node4" href="$da/d98/EMCAL_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/EMCAL/simulation\l/src/Detector.cxx" alt="" coords="385,139,580,210"/>
+<area shape="rect" id="node5" href="$d9/d0d/ITSMFT_2ITS_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/simulation/src/Detector.cxx" alt="" coords="605,139,792,210"/>
+<area shape="rect" id="node6" href="$d0/d6b/ITSMFT_2MFT_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/simulation/src/Detector.cxx" alt="" coords="816,139,1003,210"/>
+<area shape="rect" id="node7" href="$df/d4d/PHOS_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/PHOS/simulation\l/src/Detector.cxx" alt="" coords="1027,139,1215,210"/>
+<area shape="rect" id="node8" href="$d4/d59/TOF_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/Detector.cxx" alt="" coords="1240,139,1416,210"/>
+<area shape="rect" id="node9" href="$d2/d2c/TPC_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/Detector.cxx" alt="" coords="1441,139,1617,210"/>
+<area shape="rect" id="node10" href="$da/d16/TRD_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TRD/simulation\l/src/Detector.cxx" alt="" coords="1643,139,1821,210"/>
+</map>

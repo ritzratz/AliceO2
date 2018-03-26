@@ -1,0 +1,36 @@
+var classo2_1_1ITSMFT_1_1DigiParams =
+[
+    [ "Hit2DigitsMethod", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a90767d26ca3166ae324d3335f16db00f", [
+      [ "p2dSimple", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a90767d26ca3166ae324d3335f16db00faf6a46c83d31842c01238f07aaaf4e843", null ],
+      [ "p2dCShape", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a90767d26ca3166ae324d3335f16db00faa9d7593cc27ffc518ef0c19e1f803b1b", null ]
+    ] ],
+    [ "DigiParams", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a026aefb7e977ac6f529bc3d7300b161f", null ],
+    [ "~DigiParams", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#af96e315c2adfa02aa893068e52816ab1", null ],
+    [ "getACSFromBGPar0", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#ac4f3a1472ae3f275ae90b10435bad0f0", null ],
+    [ "getACSFromBGPar1", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#acceb626a5277ad2350d9f529d21dcc1d", null ],
+    [ "getACSFromBGPar2", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#ac1a59e82fa329f17f734cd784998bbbd", null ],
+    [ "getAlpSimResponse", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a720a20fab88457fc880fef20302797f2", null ],
+    [ "getChargeThreshold", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#ae1400456660e324fb5b77dace24ce9bd", null ],
+    [ "getEnergyToNElectrons", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#af52381a9bd9c7fcde9eea40b69c5452e", null ],
+    [ "getHit2DigitsMethod", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#ace8d8ccf2c7e844827b25dcafe00dcac", null ],
+    [ "getNoisePerPixel", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#ae9635e85d8e7fa41a77f7de3ae3dfc42", null ],
+    [ "getNSimSteps", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a36218b0c032dadb18a6c82e398e91c80", null ],
+    [ "getROFrameDeadTime", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a4aa8830f2450beb8fdc92f053263c98b", null ],
+    [ "getROFrameLenght", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a56df2255ced8d3f06773b6686c23fb0b", null ],
+    [ "getTimeOffset", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#afb6213abaad46e4cdbbb61ef1562abc1", null ],
+    [ "isContinuous", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#ac498c9e4b52a9dbc32b255e268d7a047", null ],
+    [ "isTimeOffsetSet", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a50f59be93a9330072ccc89870d37eb7d", null ],
+    [ "setACSFromBGPar0", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a0d5000202722be9826b0b08ae5acf69a", null ],
+    [ "setACSFromBGPar1", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#aa39a724a7731a1835ad2fc8bc2a89336", null ],
+    [ "setACSFromBGPar2", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a0ef582e49067e61a65c853714cafc1c3", null ],
+    [ "setAlpSimResponse", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a653a1b6eccc1ca4ca1cce30c474cdfaf", null ],
+    [ "setChargeThreshold", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#aec831e40cb027984b3f3c9e91473210f", null ],
+    [ "setContinuous", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a9c6b3b9af8ef3f06f67b9b76189eb832", null ],
+    [ "setEnergyToNElectrons", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a155b7ae9a1e8eb82263914d44ac5180f", null ],
+    [ "setHitDigitsMethod", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a1190f96578d6c908ed07a916dd978e08", null ],
+    [ "setNoisePerPixel", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a0b061438e7fee556914ab07196e9fd09", null ],
+    [ "setNSimSteps", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a3b7db3ac9b3c009776dde79bd90cdee3", null ],
+    [ "setROFrameDeadTime", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#aebc4032b08ee3ed48c3eac5704424e05", null ],
+    [ "setROFrameLenght", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#afbb009201948069163e3b4d7bcf8021a", null ],
+    [ "setTimeOffset", "d3/d06/classo2_1_1ITSMFT_1_1DigiParams.html#a758e9a658510a261fbe479ca7b16e059", null ]
+];

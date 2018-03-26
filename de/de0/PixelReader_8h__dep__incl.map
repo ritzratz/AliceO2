@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/PixelReader.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/PixelReader.h">
+<area shape="rect" id="node2" href="$d6/d04/ITSMFT_2common_2reconstruction_2include_2ITSMFTReconstruction_2Clusterer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/common\l/reconstruction/include\l/ITSMFTReconstruction/Clusterer.h" alt="" coords="397,139,627,224"/>
+<area shape="rect" id="node4" href="$d6/d67/ITSMFT_2ITS_2reconstruction_2include_2ITSReconstruction_2ClustererTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/reconstruction/include\l/ITSReconstruction/ClustererTask.h" alt="" coords="149,272,381,357"/>
+<area shape="rect" id="node7" href="$db/d12/ITSMFT_2MFT_2reconstruction_2include_2MFTReconstruction_2ClustererTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/reconstruction/include\l/MFTReconstruction/ClustererTask.h" alt="" coords="642,272,880,357"/>
+<area shape="rect" id="node11" href="$d2/dff/PixelReader_8cxx.html" title="Implementation of the ITS pixel reader class. " alt="" coords="703,146,933,217"/>
+<area shape="rect" id="node3" href="$d3/d41/Clusterer_8cxx.html" title="Implementation of the ITS cluster finder. " alt="" coords="406,279,617,350"/>
+<area shape="rect" id="node5" href="$d8/d95/ITSMFT_2ITS_2reconstruction_2src_2ClustererTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/ITS\l/reconstruction/src/ClustererTask.cxx" alt="" coords="187,406,428,477"/>
+<area shape="rect" id="node6" href="$d6/da1/run__clus__its_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_clus_its.C" alt="" coords="5,413,163,469"/>
+<area shape="rect" id="node8" href="$de/d5b/run__clus_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/macros/run_clus.C" alt="" coords="678,406,844,477"/>
+<area shape="rect" id="node9" href="$d9/d5e/ITSMFT_2MFT_2reconstruction_2src_2ClustererTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/ITSMFT/MFT\l/reconstruction/src/ClustererTask.cxx" alt="" coords="869,406,1109,477"/>
+<area shape="rect" id="node10" href="$d4/dfd/run__clus__mft_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_clus_mft.C" alt="" coords="496,413,653,469"/>
+</map>

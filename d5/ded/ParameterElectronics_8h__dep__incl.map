@@ -1,0 +1,22 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/ParameterElectronics.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/ParameterElectronics.h">
+<area shape="rect" id="node2" href="$dc/d59/MatchTPCITS_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/GlobalTracking\l/src/MatchTPCITS.cxx" alt="" coords="5,126,179,197"/>
+<area shape="rect" id="node3" href="$d0/d64/ParameterElectronics_8cxx.html" title="Implementation of the parameter class for the detector electronics. " alt="" coords="204,126,380,197"/>
+<area shape="rect" id="node4" href="$da/d69/testTPCParameters_8cxx.html" title="This task tests the Parameter handling. " alt="" coords="405,126,576,197"/>
+<area shape="rect" id="node5" href="$d4/d7c/HardwareClusterDecoder_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/reconstruction\l/src/HardwareClusterDecoder.cxx" alt="" coords="601,126,820,197"/>
+<area shape="rect" id="node6" href="$d8/ded/TPCCATracking_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/reconstruction\l/src/TPCCATracking.cxx" alt="" coords="845,126,1044,197"/>
+<area shape="rect" id="node7" href="$de/d92/TPC_2simulation_2include_2TPCSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/include/TPCSimulation/Digitizer.h" alt="" coords="1069,126,1291,197"/>
+<area shape="rect" id="node18" href="$d0/d45/SAMPAProcessing_8h.html" title="Definition of the SAMPA response. " alt="" coords="1405,126,1691,197"/>
+<area shape="rect" id="node21" href="$d0/d5c/testTPCSAMPAProcessing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/test/testTPCSAMPAProcessing.cxx" alt="" coords="1969,253,2207,323"/>
+<area shape="rect" id="node8" href="$db/d60/testTracks_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/reconstruction\l/macro/testTracks.C" alt="" coords="613,253,812,323"/>
+<area shape="rect" id="node9" href="$dd/d4b/TPC_2simulation_2include_2TPCSimulation_2DigitizerTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/include/TPCSimulation/Digitizer\lTask.h" alt="" coords="888,245,1097,331"/>
+<area shape="rect" id="node10" href="$df/d46/TPC_2simulation_2src_2DigitizerTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/DigitizerTask.cxx" alt="" coords="713,379,889,450"/>
+<area shape="rect" id="node15" href="$d9/d59/testHitsDigitsClusters_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/macro/testHitsDigitsClusters.C" alt="" coords="379,253,588,323"/>
+<area shape="rect" id="node16" href="$d7/d0a/TPC_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TPC/simulation\l/src/Digitizer.cxx" alt="" coords="1333,253,1509,323"/>
+<area shape="rect" id="node17" href="$d1/dd8/SAMPAProcessing_8cxx.html" title="Implementation of the SAMPA response. " alt="" coords="1123,253,1308,323"/>
+<area shape="rect" id="node11" href="$d7/d11/macro_2run__digi_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_digi.C" alt="" coords="1096,387,1253,443"/>
+<area shape="rect" id="node12" href="$d9/de3/run__digi__all_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_digi_all.C" alt="" coords="1277,387,1435,443"/>
+<area shape="rect" id="node13" href="$d3/db7/run__digi__tpc_8C.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/macro/run_digi_tpc.C" alt="" coords="915,387,1072,443"/>
+<area shape="rect" id="node14" href="$d3/d56/runTPC_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/runTPC.cxx" alt="" coords="915,499,1072,555"/>
+<area shape="rect" id="node19" href="$db/d73/DigitPad_8cxx.html" title="Implementation of the Pad container. " alt="" coords="1767,253,1944,323"/>
+<area shape="rect" id="node20" href="$dd/d5e/testTPCDigitContainer_8cxx.html" title="This task tests the DigitContainer of the TPC digitization. " alt="" coords="1534,253,1743,323"/>
+</map>

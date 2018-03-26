@@ -1,0 +1,20 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/macro/run_digi_its.C" name="/home/travis/build/AliceO2Group/AliceO2/macro/run_digi_its.C">
+<area shape="rect" id="node10" href="$d9/d51/ITSMFT_2ITS_2simulation_2include_2ITSSimulation_2DigitizerTask_8h.html" title="ITSSimulation/DigitizerTask.h" alt="" coords="2037,109,2232,136"/>
+<area shape="rect" id="node14" href="$df/d29/DigiParams_8h.html" title="Simulation parameters for the ALIPIDE chip. " alt="" coords="2925,267,3139,293"/>
+<area shape="rect" id="node15" href="$d7/d9c/ITSMFT_2common_2simulation_2include_2ITSMFTSimulation_2Digitizer_8h.html" title="ITSMFTSimulation/Digitizer.h" alt="" coords="1665,184,1860,211"/>
+<area shape="rect" id="node51" href="$d0/dae/ITSMFT_2common_2simulation_2include_2ITSMFTSimulation_2Hit_8h.html" title="ITSMFTSimulation/Hit.h" alt="" coords="2737,267,2900,293"/>
+<area shape="rect" id="node19" href="$d7/d9e/SimulationAlpide_8h.html" title="Simulation of the ALIPIDE chip response. " alt="" coords="1515,259,1711,301"/>
+<area shape="rect" id="node20" href="$dc/d1a/AlpideSimResponse_8h.html" title="Definition of the ITSMFT Alpide simulated response parametrization. " alt="" coords="1181,350,1376,391"/>
+<area shape="rect" id="node40" href="$d0/d2d/common_2base_2include_2ITSMFTBase_2GeometryTGeo_8h.html" title="ITSMFTBase/GeometryTGeo.h" alt="" coords="966,267,1169,293"/>
+<area shape="rect" id="node23" href="$d9/d55/Chip_8h.html" title="ITSMFTSimulation/Chip.h" alt="" coords="1501,357,1675,384"/>
+<area shape="rect" id="node24" href="$d0/d06/ITSMFT_2common_2base_2include_2ITSMFTBase_2Digit_8h.html" title="ITSMFTBase/Digit.h" alt="" coords="1330,448,1472,475"/>
+<area shape="rect" id="node25" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1325,531,1477,573"/>
+<area shape="rect" id="node29" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="2179,448,2345,475"/>
+<area shape="rect" id="node26" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="1075,539,1301,565"/>
+<area shape="rect" id="node37" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="3103,539,3269,565"/>
+<area shape="rect" id="node42" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="781,350,989,391"/>
+<area shape="rect" id="node43" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="529,441,737,482"/>
+<area shape="rect" id="node48" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="153,539,273,565"/>
+<area shape="rect" id="node50" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="89,629,327,656"/>
+<area shape="rect" id="node52" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="2323,350,2475,391"/>
+</map>

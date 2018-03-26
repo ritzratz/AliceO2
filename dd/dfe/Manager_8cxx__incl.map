@@ -1,0 +1,14 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/CCDB/src/Manager.cxx" name="/home/travis/build/AliceO2Group/AliceO2/CCDB/src/Manager.cxx">
+<area shape="rect" id="node2" href="$d1/da0/Manager_8h.html" title="CCDB/Manager.h" alt="" coords="1501,184,1627,211"/>
+<area shape="rect" id="node24" href="$da/d6a/Condition_8h.html" title="Definition of the Condition class (CDB object) containing the condition and its metadata. " alt="" coords="953,109,1083,136"/>
+<area shape="rect" id="node29" href="$df/d0e/FileStorage_8h.html" title="CCDB/FileStorage.h" alt="" coords="1493,109,1635,136"/>
+<area shape="rect" id="node32" href="$d6/d01/GridStorage_8h.html" title="CCDB/GridStorage.h" alt="" coords="1773,109,1917,136"/>
+<area shape="rect" id="node33" href="$d8/d9b/LocalStorage_8h.html" title="CCDB/LocalStorage.h" alt="" coords="1943,109,2095,136"/>
+<area shape="rect" id="node36" href="$d8/de8/XmlHandler_8h.html" title="CCDB/XmlHandler.h" alt="" coords="2060,259,2204,285"/>
+<area shape="rect" id="node9" href="$d7/d44/TObjectWrapper_8h.html" title="CCDB/TObjectWrapper.h" alt="" coords="223,259,393,285"/>
+<area shape="rect" id="node25" href="$da/d53/ConditionId_8h.html" title="CCDB/ConditionId.h" alt="" coords="893,184,1035,211"/>
+<area shape="rect" id="node26" href="$d4/dd1/IdPath_8h.html" title="CCDB/IdPath.h" alt="" coords="1007,259,1121,285"/>
+<area shape="rect" id="node28" href="$d1/d3f/ConditionMetaData_8h.html" title="CCDB/ConditionMetaData.h" alt="" coords="743,259,931,285"/>
+<area shape="rect" id="node27" href="$dd/d18/IdRunRange_8h.html" title="CCDB/IdRunRange.h" alt="" coords="569,259,717,285"/>
+<area shape="rect" id="node30" href="$db/d6f/Storage_8h.html" title="CCDB/Storage.h" alt="" coords="1693,184,1813,211"/>
+</map>
